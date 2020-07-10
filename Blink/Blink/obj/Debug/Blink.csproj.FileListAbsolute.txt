@@ -13,3 +13,17 @@ C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.csproj.CoreCompileI
 C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.csproj.CopyComplete
 C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.exe
 C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.pdb
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Blink.exe.config
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Blink.exe
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Blink.pdb
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Raspberry.IO.dll
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Raspberry.IO.GeneralPurpose.dll
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Raspberry.IO.Interop.dll
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Raspberry.System.dll
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Raspberry.IO.xml
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Raspberry.IO.GeneralPurpose.xml
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\bin\Debug\Raspberry.System.xml
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.csproj.CoreCompileInputs.cache
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.csproj.CopyComplete
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.exe
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.pdb
