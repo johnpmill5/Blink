@@ -27,3 +27,4 @@ C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.csproj.CoreCompi
 C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.csproj.CopyComplete
 C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.exe
 C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.pdb
+C:\Users\JohnPuksta\Documents\Blink\Blink\Blink\obj\Debug\Blink.csprojAssemblyReference.cache
