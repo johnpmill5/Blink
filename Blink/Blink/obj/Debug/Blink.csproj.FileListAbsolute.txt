@@ -1,0 +1,15 @@
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Blink.exe.config
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Blink.exe
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Blink.pdb
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Raspberry.IO.dll
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Raspberry.IO.GeneralPurpose.dll
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Raspberry.IO.Interop.dll
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Raspberry.System.dll
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Raspberry.IO.xml
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Raspberry.IO.GeneralPurpose.xml
+C:\Users\JohnPuksta\source\repos\Blink\Blink\bin\Debug\Raspberry.System.xml
+C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.csprojAssemblyReference.cache
+C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.csproj.CoreCompileInputs.cache
+C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.csproj.CopyComplete
+C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.exe
+C:\Users\JohnPuksta\source\repos\Blink\Blink\obj\Debug\Blink.pdb
